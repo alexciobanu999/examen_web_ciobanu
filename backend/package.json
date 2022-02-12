@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7",
+    "pg": "^8.7.3",
+    "sequelize": "^6.16.1"
+  }
+}
